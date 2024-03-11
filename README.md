@@ -1,1 +1,2 @@
 # ARM-liked-Processor
+This is the ARM-liked processor I built in the computer organization courses. Key features include the integration of an internal counter to eliminate the need for an external counter, enabling direct read and write operations to memory or other devices. The processor includes a program counter (PC) that automates instruction sequencing, improving efficiency. Four new instructions—load (ld), store (st), and (and), and branch conditionally (b{cond}).
